@@ -19,5 +19,5 @@ washington.csv
 ### Credits
 all used resources are linked and credited in readme.txt
 
-###Changes
-Improving documentation Part 4 Turn 2: Commit number:2(Refactoring Branch)
+### Changes
+Improving documentation Part 4 Turn 3: Commit number:3(Refactoring Branch)
