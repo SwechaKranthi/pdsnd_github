@@ -20,4 +20,4 @@ washington.csv
 all used resources are linked and credited in readme.txt
 
 ### Changes
-Improving documentation Turn 5: Commit number:5
+Improving documentation Turn 6: Commit number:6
