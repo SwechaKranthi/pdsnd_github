@@ -1,3 +1,6 @@
+#Improving documentation Part 4 Turn 3: Commit number:3(Refactoring Branch)
+
+
 import time
 import pandas as pd
 import numpy as np
