@@ -14,7 +14,10 @@ bikeshare.py
 readme.txt
 chicago.csv
 new_york_city.csv
-washington.csv 
+washington.csv
 
 ### Credits
 all used resources are linked and credited in readme.txt
+
+### Changes
+Improving documentation Turn 1: Commit number:2
