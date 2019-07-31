@@ -6,7 +6,7 @@ BikeShare
 
 ### Description
 Python program that explores data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington.
-the code uses panda to compute interesting statistics about the data.
+the code uses pandas to compute interesting statistics about the dataset.
 the code also displays the raw data upon the user's discretion
 
 ### Files used
@@ -19,9 +19,4 @@ washington.csv
 ### Credits
 all used resources are linked and credited in readme.txt
 
-### Changes
-<<<<<<< HEAD
-Improving documentation Turn 7: Commit number:7
-=======
-Improving documentation Part 4 Turn 3: Commit number:3(Refactoring Branch)
->>>>>>> refactoring
+
